@@ -1,2 +1,4 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeviathanST&show_icons=true&theme=github_dark)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=LeviathanST&show_icons=true&locale=en&theme=github_dark&layout=compact&hide=jupyter%20notebook)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LeviathanST&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LeviathanST&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
